@@ -89,7 +89,7 @@ Home-Cybersecurity-Stack/
 
 ## **📫 Connect With Me**
 💼 **LinkedIn:** [linkedin.com/in/cameron-v-624773317/](https://www.linkedin.com/in/cameron-v-624773317/)
-🌐 **GitHub Portfolio:** [github.com/CameronVester](https://github.com/CameronVester)
+🌐 **GitHub Portfolio:** [github.com/CameronVester](https://github.com/WavTech)
 🚀 **WavTech GitHub Organization:** [github.com/WavTech](https://github.com/WavTech)
 
 ---
